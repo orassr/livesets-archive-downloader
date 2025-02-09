@@ -11,7 +11,7 @@ Open to all contributions—fork and improve!
 ## Table of Contents
 
 1. [Features](#features)  
-2. [Screenshots (Optional)](#screenshots-optional)  
+2. [Screenshots](#screenshots-optional)  
 3. [Requirements](#requirements)  
 4. [Installation](#installation)  
 5. [Usage](#usage)  
@@ -39,6 +39,7 @@ Open to all contributions—fork and improve!
 ---
 
 ## Screenshots
+
 ![screem](https://github.com/user-attachments/assets/1e5598d2-6a21-4f67-b359-bbd27370fa7f)
 
 ## Requirements
@@ -113,23 +114,6 @@ Build:
 ## Contributing
 
 Contributions are welcome! Please fork this repository, make your changes, and create a pull request.
-
-Steps:
-
-Fork the project
-Create your feature branch:
-    
-    git checkout -b feature/MyAwesomeFeature
-
-Commit your changes:
-
-    git commit -m "Add my awesome feature"
-
-Push to GitHub:
-
-    git push origin feature/MyAwesomeFeature
-
-Open a Pull Request describing your changes.
 
 ## License
 
