@@ -38,7 +38,8 @@ Open to all contributions—fork and improve!
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
+![screem](https://github.com/user-attachments/assets/1e5598d2-6a21-4f67-b359-bbd27370fa7f)
 
 ## Requirements
 
