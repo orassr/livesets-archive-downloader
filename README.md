@@ -121,13 +121,11 @@ This project is licensed under the MIT License:
 
 MIT License
 
-2025 orassr
+2025 **Created by [orassr](https://github.com/orassr).**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
-
-(Include the full MIT license text if you prefer, or store it in a LICENSE file.)
 
 Happy downloading!
 
